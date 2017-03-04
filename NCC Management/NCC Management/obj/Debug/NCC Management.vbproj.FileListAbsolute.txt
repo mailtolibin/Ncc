@@ -1,0 +1,34 @@
+D:\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.exe.config
+D:\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.exe
+D:\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.pdb
+D:\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.xml
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.MDIParent1.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.Resources.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.vbproj.GenerateResource.Cache
+D:\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.exe
+D:\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.xml
+D:\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.pdb
+D:\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.vbproj.ResolveComReference.cache
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.SplashScreen1.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.LoginForm1.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmaddnewitem.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.addtype.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmreceipt.resources
+D:\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmissue.resources
+D:\Study\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.exe.config
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.vbproj.ResolveComReference.cache
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.exe
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.xml
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.pdb
+D:\Study\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.exe
+D:\Study\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.pdb
+D:\Study\NCC1\NCC Management\NCC Management\bin\Debug\NCC Management.xml
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmissue.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmreceipt.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.frmaddnewitem.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.addtype.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.LoginForm1.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.MDIParent1.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.Resources.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\WindowsApplication1.SplashScreen1.resources
+D:\Study\NCC1\NCC Management\NCC Management\obj\Debug\NCC Management.vbproj.GenerateResource.Cache
